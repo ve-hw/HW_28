@@ -33,7 +33,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>core.CLA_S</mainClass>
+              <mainClass>core.CLO_calc</mainClass>
             </manifest>
           </archive>
         </configuration>
@@ -56,7 +56,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.App</mainClass>
+							<mainClass>core.CLO_calc</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
